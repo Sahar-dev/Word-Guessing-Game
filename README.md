@@ -6,3 +6,10 @@ The characters proposed each time can be at the beginning of the word, in the mi
 The player who reaches 10 first will win.
 
 All questions and associated answers are saved in an XML file that the game administrator will feed via his space.
+# Screenshots:
+![1](https://user-images.githubusercontent.com/61152787/207831293-a88c4c32-3025-408b-9cdd-0f08018e411a.PNG)
+
+![2](https://user-images.githubusercontent.com/61152787/207831316-4b846659-bf73-4dcf-841e-6988d96bdedb.PNG)
+
+![3](https://user-images.githubusercontent.com/61152787/207831323-9e22b707-89a5-4dca-92c1-671e1c3eb953.PNG)
+
